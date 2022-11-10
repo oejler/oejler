@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oejler
+- 👋 Hi, I’m @oejler (pronounced, 'oiler')
 <!---
 oejler/oejler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
